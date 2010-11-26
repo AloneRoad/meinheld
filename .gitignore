@@ -10,4 +10,7 @@ build
 *.egg-info
 _mailinglist
 TODO
+/dist
+/build
+/meinheld.egg-info
 
